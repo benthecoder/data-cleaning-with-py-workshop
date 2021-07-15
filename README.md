@@ -1,6 +1,6 @@
 # Data Cleaning 🧹 with Python Workshop materials and info 
 
-Materials for the Data Cleaning with Python workshop in collaboration with Le Wagon Tokyo
+Materials for the [Data Cleaning with Python workshop](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/events/279267393/) in collaboration with Le Wagon Tokyo
 
 Materials 💻
 - [Slides](https://docs.google.com/presentation/d/1uLkAdABGWVvUzFSibr_LPcGmawT6lBT6GowwU_E3dEY/edit?usp=sharing)
