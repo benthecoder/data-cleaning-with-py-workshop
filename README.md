@@ -1,8 +1,9 @@
-# Data Cleaning 🧹 with Python Workshop materials and info 
+# Data Cleaning 🧹 with Python Workshop materials and info
 
 Materials for the [Data Cleaning with Python workshop](https://www.meetup.com/Le-Wagon-Tokyo-Coding-Station/events/279267393/) in collaboration with Le Wagon Tokyo
 
 Materials 💻
+
 - [Dataset](dirty_AB_NYC_2019.csv) ([source](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data))
 - [Slides](https://docs.google.com/presentation/d/1uLkAdABGWVvUzFSibr_LPcGmawT6lBT6GowwU_E3dEY/edit?usp=sharing)
 - [Google Colab](https://colab.research.google.com/drive/1Uk4uy12lVCmwOi4lji2FzoTQT-fo2uOq?usp=sharing)
@@ -10,9 +11,11 @@ Materials 💻
 - Recorded video (coming soon!)
 
 Speaker information 📱
+
 - [Linkedin](https://www.linkedin.com/in/benedictneo/)
 - [Medium](https://benedictxneo.medium.com/)
 
 Organized by 🧑‍🤝‍🧑
+
 - [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 - [bitgrit](https://bitgrit.net/)
