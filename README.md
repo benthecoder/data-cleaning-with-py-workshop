@@ -6,7 +6,7 @@ Materials 💻
 
 - [Dataset](dirty_AB_NYC_2019.csv) ([taken from kaggle which was modified for demonstration purposes](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data))
 - [Slides](https://docs.google.com/presentation/d/1uLkAdABGWVvUzFSibr_LPcGmawT6lBT6GowwU_E3dEY/edit?usp=sharing)
-- [Notebook](Data_Cleaning_with_Python_Workshop.ipynb) [](https://colab.research.google.com/drive/1Uk4uy12lVCmwOi4lji2FzoTQT-fo2uOq?usp=sharing)
+- [Download notebook](Data_Cleaning_with_Python_Workshop.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uk4uy12lVCmwOi4lji2FzoTQT-fo2uOq?usp=sharing)
 - [Data Cleaning with Python article](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45)
 - Recorded video (coming soon!)
 
