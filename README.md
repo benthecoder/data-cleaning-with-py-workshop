@@ -20,3 +20,8 @@ Organized by 🧑‍🤝‍🧑
 
 - [Le Wagon Tokyo](https://www.lewagon.com/tokyo)
 - [bitgrit](https://bitgrit.net/)
+
+More 
+
+- [bitgrit competitions](https://bitgrit.net/competition/)
+- [Sign up for bitgrit newsletter!](https://mailchi.mp/bitgrit/newsletter)
