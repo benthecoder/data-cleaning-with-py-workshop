@@ -8,7 +8,7 @@ Materials 💻
 - [Slides](https://docs.google.com/presentation/d/1uLkAdABGWVvUzFSibr_LPcGmawT6lBT6GowwU_E3dEY/edit?usp=sharing)
 - [Download notebook](Data_Cleaning_with_Python_Workshop.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Uk4uy12lVCmwOi4lji2FzoTQT-fo2uOq?usp=sharing)
 - [Data Cleaning with Python article](https://medium.com/bitgrit-data-science-publication/data-cleaning-with-python-f6bc3da64e45)
-- Recorded video (coming soon!)
+- [Recording on YT](https://www.youtube.com/watch?v=matA-kbra0A)
 
 Speaker information 📱
 
